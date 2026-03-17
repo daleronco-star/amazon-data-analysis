@@ -1,8 +1,6 @@
-# Analisi Dati Prodotti Amazon
+# Amazon Product Data Analysis (Python)
 
-Questo progetto analizza un dataset di prodotti Amazon per identificare trend relativi a prezzi, sconti, rating e categorie.
-
-L’obiettivo è applicare tecniche di data analysis utilizzando Python e creare visualizzazioni utili per comprendere il comportamento dei prodotti.
+Questo progetto analizza un dataset di prodotti Amazon utilizzando Python per individuare pattern e trend relativi a prezzi, rating, sconti e categorie di prodotti attraverso tecniche di data analysis e visualizzazione.
 
 ---
 
@@ -26,6 +24,17 @@ Il dataset contiene informazioni su prodotti Amazon, tra cui:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+---
+
+## Funzionalità
+
+- Pulizia e preprocessing dei dati
+- Analisi esplorativa dei dati (EDA)
+- Visualizzazione dei dati con Matplotlib e Seaborn
+- Feature engineering (calcolo percentuale di sconto)
+- Analisi per categoria di prodotto
+- Analisi delle correlazioni tra variabili
 
 ---
 
@@ -68,6 +77,14 @@ Nel progetto sono state sviluppate diverse analisi:
 - La maggior parte dei prodotti ha rating compresi tra 4 e 5.
 - I prodotti con prezzo più alto tendono ad avere sconti maggiori.
 - Alcune categorie dominano il catalogo Amazon.
+
+---
+
+## Come eseguire il progetto
+
+1. Clonare il repository
+2. Aprire il notebook in Jupyter Notebook
+3. Eseguire tutte le celle per replicare l'analisi
 
 ---
 
